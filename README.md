@@ -56,8 +56,8 @@ This section contains all project-related files:
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/your-repo/email-spam-detection.git
-cd email-spam-detection
+git clone https://github.com/babupallam/Msc_AI_Module8_Applied_AI.git
+
 ```
 
 ### **2️⃣ Install Dependencies**  
@@ -85,7 +85,7 @@ Different ML and DL models were evaluated on **accuracy, precision, recall, and 
 ✔ **GRU-based RNN achieved the highest accuracy (0.99)**  
 ✔ **CNN with Bidirectional LSTM** performed best among CNN models  
 
-![Performance Analysis](04_Report_Submitted/PERFORMANCE%20ANALYSIS.png)
+![Performance Analysis](Final%20Work%20-%20Email%20Spam%20Detection/PERFORMANCE%20ANALYSIS.png)
 
 ---
 
