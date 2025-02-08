@@ -105,17 +105,3 @@ Different ML and DL models were evaluated on **accuracy, precision, recall, and 
 👤 **Babu Pallam** (P2849288) - Deep Learning & CNN Research  
 👤 **Fatima P.** (P2833125) - Machine Learning & Performance Analysis  
 👤 **Jonathan Atiene** (P2839161) - RNN Model Development  
-
----
-
-## **📌 GitHub Contribution Guide**  
-To commit changes:  
-```sh
-git add .
-git commit -m "Updated Email Spam Detection repository with latest models & reports"
-git push origin main
-```
-
----
-
-### 🚀 **Advancing AI Research with Machine Learning & Deep Learning!**  
