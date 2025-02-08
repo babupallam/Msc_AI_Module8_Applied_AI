@@ -88,7 +88,7 @@ The performance of different **Machine Learning (ML), Recurrent Neural Networks 
 #### **Performance Comparison Table**
 Below is a comparison of the models' performance:
 
-![Performance Analysis](04_Report_Submitted/PERFORMANCE%20ANALYSIS.png)
+![Performance Analysis](PERFORMANCE%20ANALYSIS.png)
 
 #### **Key Observations:**
 - **Traditional ML Models:**  
